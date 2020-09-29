@@ -1,0 +1,22 @@
+{
+
+  "employeeData": [
+    {
+      "id": "101209986",
+      "age": 25,
+      "name": "EmployeeName",
+      "dob": "25-02-1994",
+      "company": "IG Infotech",
+      "role": "QA Automation Developer"
+    },
+    {
+      "id": "101209986",
+      "age": 25,
+      "name": "EmployeeName",
+      "dob": "25-02-1994",
+      "company": "ABC Infotech",
+      "role": "ABC Infotech"
+    }
+  ]
+
+}
